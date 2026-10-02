@@ -6,7 +6,7 @@ export default function Home() {
       <div style={styles.hero}>
         <div style={styles.badge}>Next.js Boilerplate CLI 🚀</div>
         <h1 style={styles.title}>
-          Your Premium SaaS Stack <span style={styles.gradient}>Is Ready</span>
+        hello world
         </h1>
         <p style={styles.subtitle}>
           Congratulations! Your customized Next.js boilerplate has been successfully scaffolded with all your selected databases, components, and authentication configurations.
@@ -50,7 +50,7 @@ export default function Home() {
           rel="noopener noreferrer"
           style={{ color: '#71717a', textDecoration: 'underline', transition: 'color 0.2s' }}
         >
-          Tubeguruji
+          Akansha
         </a>
       </footer>
     </main>
